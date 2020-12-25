@@ -1,0 +1,2 @@
+A decision tree represents a function that takes as input a vector of attribute values and returns a decision—a single output value. A decision tree reaches its decision by performing a sequence of tests. Each internal node in the tree corresponds to a test of the value of one of the input attributes. Each leaf node in the tree specifies a value to be returned by the function.
+The following program implements the decision tree algorithm using information gain as the importance function and prints the resulting decision tree. This project has been implemented in Java.
